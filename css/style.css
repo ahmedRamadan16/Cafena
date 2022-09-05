@@ -554,7 +554,8 @@ font-size: 18px;
 }
 .menu .row .gallary{
     position: relative;
-    margin-top: 30px;   
+    margin-top: 30px; 
+    overflow: hidden;  
 }
 .menu .row .gallary img{
     max-width: 100%;
